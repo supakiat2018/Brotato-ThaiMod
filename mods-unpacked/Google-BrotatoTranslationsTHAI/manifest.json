@@ -1,0 +1,26 @@
+{
+    "name": "BrotatoTranslationsTHAI",
+    "namespace": "Google",
+    "version_number": "1.3.5",
+    "description": "Thai Translation Mod for Brotato (BrotatoTranslationsTHAI) with full UI & Codex support",
+    "website_url": "",
+    "dependencies": [],
+    "extra": {
+        "godot": {
+            "incompatibilities": [],
+            "authors": [
+                "BrotatoTranslationsTHAI"
+            ],
+            "compatible_mod_loader_version": [
+                "6.0.0",
+                "6.1.0",
+                "6.2.0"
+            ],
+            "compatible_game_version": [
+                "1.1.0.0",
+                "1.1.15.4"
+            ],
+            "config_defaults": {}
+        }
+    }
+}
