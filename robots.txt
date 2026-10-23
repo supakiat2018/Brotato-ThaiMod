@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://supakiat2018.github.io/Brotato-ThaiMod/sitemap.xml
